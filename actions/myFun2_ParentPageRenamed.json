@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "collectionId": "61e7b304684909791c1c711e",
     "actionConfiguration": {
       "paginationType": "NONE",
@@ -51,7 +51,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "collectionId": "61e7b304684909791c1c711e",
     "actionConfiguration": {
       "paginationType": "NONE",

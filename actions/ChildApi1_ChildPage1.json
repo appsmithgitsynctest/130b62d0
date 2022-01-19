@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "ParentApi1",
+    "name": "ChildApi1",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -15,7 +15,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ChildPage1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -59,7 +59,7 @@
     "userPermissions": []
   },
   "publishedAction": {
-    "name": "ParentApi1",
+    "name": "ChildApi1",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -72,7 +72,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ChildPage1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -115,12 +115,12 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "61e7b304684909791c1c711b",
+  "id": "61e7b31e684909791c1c7123",
   "deleted": false,
   "userPermissions": [
     "read:actions",
     "execute:actions",
     "manage:actions"
   ],
-  "gitSyncId": "61e7b2cf684909791c1c7108_61e7b2ed684909791c1c710e"
+  "gitSyncId": "61e7b303684909791c1c7116_61e7b31e684909791c1c7122"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "ParentJsAction1",
-    "pageId": "ParentPage1",
+    "name": "ChildJsAction1",
+    "pageId": "ChildPage1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actionIds": [],
@@ -22,13 +22,13 @@
     ]
   },
   "publishedCollection": {
-    "name": "ParentJsAction1",
-    "pageId": "ParentPage1",
+    "name": "ChildJsAction1",
+    "pageId": "ChildPage1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "defaultToBranchedActionIdsMap": {
-      "61e7b2f8684909791c1c7112": "61e7b304684909791c1c711c",
-      "61e7b2f8684909791c1c7113": "61e7b304684909791c1c711d"
+      "61e7b328684909791c1c7127": "61e7b328684909791c1c7127",
+      "61e7b328684909791c1c7126": "61e7b328684909791c1c7126"
     },
     "actionIds": [],
     "defaultToBranchedArchivedActionIdsMap": {},
@@ -47,12 +47,12 @@
       }
     ]
   },
-  "id": "61e7b304684909791c1c711e",
+  "id": "61e7b328684909791c1c7129",
   "deleted": false,
   "userPermissions": [
     "read:actions",
     "execute:actions",
     "manage:actions"
   ],
-  "gitSyncId": "61e7b2cf684909791c1c7108_61e7b2f8684909791c1c7114"
+  "gitSyncId": "61e7b303684909791c1c7116_61e7b328684909791c1c7128"
 }
